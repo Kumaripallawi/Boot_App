@@ -1,4 +1,4 @@
-//slider
+// //slider
 
 var swiper = new Swiper(".mySwiper", {
   direction: "vertical",
