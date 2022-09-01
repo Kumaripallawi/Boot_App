@@ -383,7 +383,7 @@ p{
 
 }
 .counter h1,.counter p{
-    position: absolute;
+    position: relative;
     z-index: 3;
     color: var(--text-white);
 }
