@@ -176,7 +176,7 @@ p{
 
 @keyframes fadeInDown{
     0%{
-        top: -40%;
+        top: -30%;
     }
     50%{
         top: -15%;
